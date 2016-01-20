@@ -1,0 +1,15 @@
+  grafana:
+    port: 3000
+    proto: tcp
+    influxdb:
+      version: influxdb_0.9.4.2_amd64
+      bind: 0.0.0.0
+      port : :8088
+      hostname: localhost
+    grafana:
+      version: grafana_2.5.0_amd64
+      bind: 0.0.0.0
+      port: 3000
+      user: admin
+      password: admin
+
