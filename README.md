@@ -1,7 +1,7 @@
 # Grafana-Salted
 A salt recipe for deploy InfluxDB &amp; Grafana
 
-![] (https://blog.ouvrard.it/wp-content/uploads/2015/09/grafInfluxBanner.jpg
+![] (https://blog.ouvrard.it/wp-content/uploads/2015/09/grafInfluxBanner.jpg)
 
 ```Work on Debian Jessie```, and maybe on other distros
 
